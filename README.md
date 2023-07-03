@@ -54,7 +54,6 @@
     <li>Projeto Final em Java (Parte 2)
   </ul>
 </p>
-<a href=""></a>
 <h2>💻 Utilização</h2>
 <p>Os exercícios/desafios foram feitos através da IDE NetBeans, na qual você poderá conferir um tutorial de sua instalação e do JDK (Java Development Kit)<a style="text-decoration: none;"href="https://youtu.be/Ucyx_QPfDng"> aqui</a>. </p>
 <p>As pastas estão divididas conforme o que foi passado durante os capítulos do curso.</p>
